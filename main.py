@@ -8,3 +8,5 @@ def LevelTwo():
 StartScherm()
 LevelOne()
 LevelTwo()
+
+print('hello')
